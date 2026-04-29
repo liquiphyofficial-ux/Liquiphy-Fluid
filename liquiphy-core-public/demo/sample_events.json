@@ -1,0 +1,16 @@
+[
+  {
+    "slot": 501000001,
+    "source": "mock-low-latency-feed",
+    "mint_alias": "DEMO_MINT_ALPHA",
+    "side": "buy",
+    "observed_at_ms": 1710000000100
+  },
+  {
+    "slot": 501000014,
+    "source": "mock-low-latency-feed",
+    "mint_alias": "DEMO_MINT_BETA",
+    "side": "sell",
+    "observed_at_ms": 1710000000450
+  }
+]

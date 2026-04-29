@@ -1,0 +1,21 @@
+[
+  {
+    "slot": 401234567,
+    "signature": "redacted_demo_signature_001",
+    "program_hint": "pump-like-demo",
+    "mint_alias": "DEMO_MINT_A",
+    "side": "buy",
+    "amount_sol": 0.42,
+    "observed_at_ms": 1710000000123
+  },
+  {
+    "slot": 401234578,
+    "signature": "redacted_demo_signature_002",
+    "program_hint": "amm-demo",
+    "mint_alias": "DEMO_MINT_B",
+    "side": "sell",
+    "amount_sol": 0.18,
+    "observed_at_ms": 1710000000456
+  }
+]
+

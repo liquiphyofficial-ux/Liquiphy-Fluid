@@ -1,0 +1,9 @@
+[package]
+name = "liquiphy-jito-demo"
+version = "0.1.0"
+edition = "2021"
+description = "Public-safe dry-run Jito-oriented demo modules for Liquiphy."
+license = "MIT"
+
+[dependencies]
+

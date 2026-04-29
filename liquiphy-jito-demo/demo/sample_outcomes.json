@@ -1,0 +1,17 @@
+[
+  {
+    "event_id": "demo-401234567-DEMO_MINT_A",
+    "dry_run": true,
+    "status": "simulated_accepted",
+    "latency_ms": 38,
+    "notes": "Fake outcome for public demo."
+  },
+  {
+    "event_id": "demo-401234578-DEMO_MINT_B",
+    "dry_run": true,
+    "status": "simulated_rejected",
+    "latency_ms": 52,
+    "notes": "Fake outcome for public demo."
+  }
+]
+

@@ -1,0 +1,10 @@
+{
+  "window": "demo-15m",
+  "events_observed": 128,
+  "events_parsed": 121,
+  "dry_run_sends": 7,
+  "fake_fill_rate": 0.71,
+  "median_pipeline_ms": 42,
+  "notes": "Synthetic metrics only. Not production data."
+}
+

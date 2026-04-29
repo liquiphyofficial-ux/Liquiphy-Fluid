@@ -1,0 +1,8 @@
+[package]
+name = "liquiphy-core"
+version = "0.1.0"
+edition = "2021"
+description = "Public-safe dry-run Liquiphy core interface demo for Jito-oriented Solana systems."
+license = "MIT"
+
+[dependencies]
