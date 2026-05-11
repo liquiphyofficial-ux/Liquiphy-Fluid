@@ -4,10 +4,23 @@ Jito-oriented Solana trading intelligence prototype with low-latency event intak
 
 This repository is the public submission hub for both Liquiphy and Fluid. It contains only public-safe demo code, documentation, architecture notes, and links. It does not contain the private production trading system.
 
+## Judge Path
+
+Start here if you are reviewing the submission:
+
+1. Read [SUBMISSION.md](./SUBMISSION.md) for the competition summary.
+2. Read [docs/judge-guide.md](./docs/judge-guide.md) for what each repo proves.
+3. Run the two dry-run demos below.
+4. Review the Fluid public analytics repo:
+   https://github.com/liquiphyofficial-ux/Fluid
+5. Review the standalone Jito demo repo:
+   https://github.com/liquiphyofficial-ux/liquiphy-jito-demo
+
 ## Submission Links
 
 - Fluid site: https://trifluid.com
 - Fluid repository: https://github.com/liquiphyofficial-ux/Fluid
+- Standalone Jito demo: https://github.com/liquiphyofficial-ux/liquiphy-jito-demo
 - Liquiphy core public-safe interface: `liquiphy-core-public/`
 - Jito demo repository export: `liquiphy-jito-demo/`
 
@@ -20,6 +33,17 @@ This repository is the public submission hub for both Liquiphy and Fluid. It con
 - Dry-run-only execution adapters.
 - Fake outcome watching.
 - Fluid as the public dashboard and analytics layer.
+
+## Why This Repo Is Useful
+
+This is not just a placeholder repo. It is the public-safe submission hub that
+shows the system boundary judges need to evaluate:
+
+- how low-latency Jito-style data enters the system
+- how events become sanitized signals
+- how policy/execution interfaces are structured without live signing
+- how outcomes and metrics feed a dashboard product
+- where the private production trading edge is intentionally excluded
 
 ## What Is Private
 

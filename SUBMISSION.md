@@ -28,6 +28,7 @@ Jito matters because latency-sensitive Solana applications benefit from faster d
 - Public-safe Liquiphy core interface demo.
 - Public-safe Jito demo package.
 - Fluid public site and dashboard linkage.
+- Fluid public repo with architecture, API surface, and selected safe snippets.
 - Architecture docs.
 - Security review docs.
 - Sample fake/redacted events and metrics.
@@ -53,6 +54,16 @@ python liquiphy-jito-demo/python-public-examples/fake_signal_generator.py
 - Submission repo: https://github.com/liquiphyofficial-ux/Liquiphy-Fluid
 - Fluid site: https://trifluid.com
 - Fluid repo: https://github.com/liquiphyofficial-ux/Fluid
+- Standalone Jito demo repo: https://github.com/liquiphyofficial-ux/liquiphy-jito-demo
+- Demo video: add Loom/YouTube unlisted link before final submission
+- Presentation deck: add Google Slides/Canva/PDF link before final submission
+
+## Judge Notes
+
+The public repositories are intentionally not a full live trading bot. They are a
+safe proof-of-work export. They show architecture, interfaces, dry-run demos,
+product surface, and selected snippets while keeping live strategy, signing,
+wallet material, private routing, logs, and credentials out of public view.
 
 ## Team Location
 
